@@ -1,3 +1,6 @@
+
+## Fri 12/09/2025
+
 **Clare Sudbery (she/her)**
   2:03 PM
 Here’s a great example of “AI” being used SO poorly:
@@ -145,6 +148,9 @@ Seems sensible all around
   10:47
 I followed my nose on a couple of google searches, with interesting results, as mentioned above. I used TDD style tests to check the things, to convert them to a form I wanted, and to embed them into the objects I was creating. I think you'll find things to talk about.
 Aug 26th
+
+## Sat 27/09/2025
+
 **Clare Sudbery (she/her)**
   9:54 PM
 Ooof. I just spent 2.5 days (specifically, 15 hrs and 20 mins) (I know because I’m anal like that and have spreadsheets) watching ONE VIDEO and making notes.
@@ -232,6 +238,9 @@ My current theory of agentic programming: people are amazing at adapting the too
 [https://ferd.ca/the-gap-through-which-we-praise-the-machine.html](https://ferd.ca/the-gap-through-which-we-praise-the-machine.html)
 Last reply 2 months ago
 View thread
+
+## Sat 11/10/2025
+
 **sally**
   11:54 AM
 Friedman both urgent and hopeful here:
@@ -258,6 +267,9 @@ Have LLMs basically automated [stage psychics' "cold reading" skill](https://so
 **lisa**
   5:40
 and weaponized it. We're in the midst of the biggest long con in human history IMHO.
+
+## Sat 08/11/2025
+
 **Toby**
   11:02 AM
 Im so frustrated with the whole “code was written by AIs” being sloppily presented where humans were programming and the LLM sometimes did the typing (in the cases where it was accurate and helpful) as if there was no human developer involved.
@@ -418,6 +430,9 @@ replied to a thread:
 **Me: “There have been several points in the above conversation where you didn’t follow the instructions correctly from @UpdateEbombList.process.md . I had to keep asking you to go back and do things as per the instructions. How can I update @UpdateEbombList.process.md so that it’s easier for you to follow the instructions correctly?”…**
 i'm starting to understand a bit better why this happens (it's the sliding context window thing) and thus why Claude is supplementing with satellite apps: as a chat tool chatgpt et al, don't have that capability, but because it's a "conversation" it's extremely counterintuitive because it's trained to act like that which creates a stronger illusion than otherwise.
 **View newer replies**
+
+## Sun 09/11/2025
+
 **wiseoldman**
   6:21 AM
 [https://hackernoon.com/vibe-coding-is-creating-a-generation-of-unemployable-developers](https://hackernoon.com/vibe-coding-is-creating-a-generation-of-unemployable-developers)
@@ -448,6 +463,9 @@ Could an LLM-human relationship be like pair programming? And if it were .. ?
 **sally**
   5:31
 Good article 
+
+## Mon 10/11/2025
+
 **jayne**
   8:25 PM
 the better programmer you are, the more likely you are to be able to capitalize on what it gets right and avoid most of the things it gets wrong.
@@ -526,6 +544,9 @@ Yeah.. it has that whole so clever it needs comments thing
 **Toby**
   4:24
 The other thing I did was take a very badly written bit of primitive-obsessed BS and have it recommend a more OO approach, which it kinda did. Then I recommended using immutable value objects and classes, and it produced something much more type-safe and palatable.
+
+## Thu 13/11/2025
+
 **Clare Sudbery (she/her)**
   10:05 AM
 Introducing... VELOCITY.
@@ -563,6 +584,9 @@ I suppose that since LLMs basically parrot what they've read, they are well equi
 **Clare Sudbery (she/her)**
   7:28
 I thought it was funny, because it was taking the piss out of pushy online selling techniques.
+
+## Fri 14/11/2025
+
 **Clare Sudbery (she/her)**
   12:43 AM
 OK. I’m still very early days in my experimentation, and I haven’t yet tried building anything much, but this is the second time I’ve asked to build a little app to help me do something annoying, fiddly and repetitive, and, well… it’s pretty bloody good. A lot of what I’ve done with it so far, it hasn’t saved me time (probably the opposite). But this kind of thing, it definitely saves me time. Would have taken me much longer to develop something like this on my own.
@@ -610,6 +634,9 @@ BUT. What I did get (and wasn't originally aiming for) is a really good example 
 And potentially even a straight example I can throw students at, so they get the experience of a shitshow, before I guide them to a better experience with better practices. (edited)
 Last reply 2 months ago
 View thread
+
+## Sat 15/11/2025
+
 **Clare Sudbery (she/her)**
   8:21 AM
 This AI successful future visualisation script really creeps me out. How does it make you feel? [https://www.linkedin.com/posts/jodie-cook_read-this-out-loud-every-morning-and-it-will-activity-7373709872300847104-U0aD?utm_source=share&utm_medium=member_ios&rcm=ACoAAAiZYLUBKE3tP8lBfqVfboHdbSUih9-OOXY](https://www.linkedin.com/posts/jodie-cook_read-this-out-loud-every-morning-and-it-will-activity-7373709872300847104-U0aD?utm_source=share&utm_medium=member_ios&rcm=ACoAAAiZYLUBKE3tP8lBfqVfboHdbSUih9-OOXY) (edited) 
@@ -648,6 +675,9 @@ View thread
   6:05
 the numbers in my bank account
 I'll take BB(6) please
+
+## Sun 16/11/2025
+
 **Clare Sudbery (she/her)**
   9:11 AM
 BB(6)?
@@ -668,6 +698,9 @@ View thread
 **Clare Sudbery (she/her)**
   9:12
 I think it's the "using everything you know about me" bit that's especially chilling.
+
+## Mon 17/11/2025
+
 **lisa**
   6:50 PM
 Yesterday, I switched back to Tidal after returning to spotify last year (we had previously switched for some reason I don't recall). 
@@ -700,6 +733,9 @@ Thread 11 >>>
 Yes, probably a move best avoided  (edited)
 2 months ago
 View thread
+
+## Tue 18/11/2025
+
 **Clare Sudbery (she/her)**
   12:23 AM
 I always used to try and rearrange all the furniture and people around me as though they were Tetris pieces. I would turn people upside down so they could tessellate onto other people via their shoulders.
@@ -715,6 +751,9 @@ IMG_4359
 [**How Claude Code is built**](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
 A rare look into how the new, popular dev tool is built, and what it might mean for the future of software building with AI. Exclusive. (18 kB)
 [https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
+
+## Wed 19/11/2025
+
 **Clare Sudbery (she/her)**
   12:45 PM
 Oh dear.
@@ -722,6 +761,9 @@ image.png
 **sally**
   2:42
 “yeah, sorry, I’m just as susceptible to making stuff up as any other random doofus, cause after all, I’m just distilled essence of random doofus.  But I can carry on indefinitely on a generous diet of electrons and water, as long as your credit card is good, so there’s that”
+
+## Thu 20/11/2025
+
 **Bella**
   3:10 PM
 Monty Python is to blame in some way I believe:
@@ -786,6 +828,9 @@ View thread
 **Barbara.**
   5:55
 Apparently, it was able to find a significant efficiency boost over code that a ridiculous number of Google Ph.D.s had spent years staring at & trying to optimize.
+
+## Fri 21/11/2025
+
 **lisa**
   12:01 AM
 I have an experience report to share. It's still in progress, but so far it's been very interesting. I'm redoing my resume.
@@ -802,6 +847,9 @@ Thread 14 >>>
 AI-speak for "I'm quitting for today" ?
 1 month ago
 View thread
+
+## Sat 22/11/2025
+
 **caroline**
   4:34 PM
 [https://www.anthropic.com/research/small-samples-poison](https://www.anthropic.com/research/small-samples-poison)
@@ -892,6 +940,9 @@ oh no, I didn't make that clear then, crap. The surprise is that the codebase be
 Ah cool, ok, thanks!
 Last reply 25 days ago
 View thread
+
+## Sun 23/11/2025
+
 **Clare Sudbery (she/her)**
   10:11 PM
 One of the things I’m investigating is how it feels to pair with a human on coding with an LLM. A couple of people have suggested to me that you’re already sort of pairing with the LLM anyway, so adding another human into the mix might not be effective. I was skeptical about that.
